@@ -1,13 +1,18 @@
 
 body {
     background: rgb(7, 226, 161);
-    font: normal 15pt Arial;
+    font-family:'Times New Roman', Times, serif;
+   
 
 }
 header {
     color: white;
     text-align: center;
 
+}
+h1{
+    color: black;
+   
 }
 select{
     width: 150px;
@@ -18,7 +23,7 @@ section {
     padding: 15px;
     width: 500px;
     margin: auto;
-    box-shadow: 050px 50px 5px rgba(0,0,0,0.363);
+    box-shadow: 50px 50px 100px rgb(224, 18, 18);
          
 }
 footer{
